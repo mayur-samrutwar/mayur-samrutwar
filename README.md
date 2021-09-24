@@ -1,5 +1,5 @@
 Mayur Samrutwar
-#`mayur1612@students.vnit.ac.in`
+### `mayur1612@students.vnit.ac.in`
 # Technical Skills - 
  - C, C++, Python, JavaScript
  - ReactJS, NodeJS, ExpressJS, TailwindCSS, Bootstrap
