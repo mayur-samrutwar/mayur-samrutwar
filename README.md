@@ -2,7 +2,7 @@
 #### `mayur1612@students.vnit.ac.in`
 #### [LinkedIn](https://www.linkedin.com/in/mayur-samrutwar/)
 # Technical Skills - 
- - C, C++, Python, JavaScript
+ - Solidity, C, C++, Python, JavaScript
  - ReactJS, NodeJS, ExpressJS, TailwindCSS, Bootstrap
  - MongoDB
  - Git, Docker
