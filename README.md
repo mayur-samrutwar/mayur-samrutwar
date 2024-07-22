@@ -1,5 +1,5 @@
 # Mayur Samrutwar
-#### `mayur1612@students.vnit.ac.in`
+#### `samrutwarmayur1@gmail.com`
 #### [LinkedIn](https://www.linkedin.com/in/mayur-samrutwar/)
 # Technical Skills - 
  - Solidity, C, C++, Python, JavaScript
