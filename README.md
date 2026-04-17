@@ -1,15 +1,9 @@
-hi, i'm `astro`. i can code, design and break things (security eng). i love robots, basketball, bikes and hikes.
+hi, i'm `astro`. i engineer, code and break things (security). i love robots, basketball, bikes and hikes.
 
-#### i have built
- - smart contracts (solidity, move)
- - web apps (nextjs, typescript, nodejs, tailwindcss, sql, nosql)
- - mobile apps (kotlin, swift)
- - games (unity, c#, javascript)
- - bots (telegram, discord)
-   
+building the robotics development infrastructure. 
 
-#### contact
-email: samrutwarmayur1@gmail.com
+contact if you are interested in robotics, kardishev scale or ai in bio.
+mayur@isaacprotocol.com
 
 linkedin: [linkedin](https://www.linkedin.com/in/mayurrrr/)
 
