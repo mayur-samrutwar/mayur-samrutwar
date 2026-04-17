@@ -1,4 +1,4 @@
-hi, i'm `astro`. i engineer, code and break things (security). i love robots, basketball, bikes and hikes.
+hi, i'm `astro`. i engineer, code(since i was 12) and break things (security). i love robots, basketball, bikes and hikes.
 i have won more than 15 hackathons including ethglobals, base ai, virtuals robotics hackathon.
 
 currently, building the robotics development infrastructure. 
