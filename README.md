@@ -1,6 +1,7 @@
 hi, i'm `astro`. i engineer, code and break things (security). i love robots, basketball, bikes and hikes.
+i have won more than 15 hackathons including ethglobals, base ai, virtuals robotics hackathon.
 
-building the robotics development infrastructure. 
+currently, building the robotics development infrastructure. 
 
 contact if you are interested in robotics, kardishev scale or ai in bio.
 mayur@isaacprotocol.com
